@@ -5,7 +5,6 @@ using Newtonsoft.Json.Linq;
 using picacomic;
 using picacomic.Http.Response;
 
-
 namespace picacomic
 {
     struct Account
